@@ -4,9 +4,6 @@
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=juzershakir.api_demo&color=000000&lcolor=000000&style=for-the-badge&logo=Github)
 
 
-<a href="https://wakatime.com/@JuzerShakir/projects/bymgryqiii?start=2021-11-09" target="_blank"><img src="https://wakatime.com/badge/user/ccef187f-4308-4666-920d-d0a9a07d713a/project/d1c88212-ffbd-4d07-bb6b-ac2c156be01e.svg" alt="wakatime"></a>
-
-
 ## ❗ Objectives
 This web-app must accomplish the following:
 - [x] User - has only a login.
